@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jovan\\OneDrive\\Desktop\\ipt\\IPT102-asp-Cambalo\\dotnetsample.csproj": {}
+    "c:\\Users\\jovan\\OneDrive\\Desktop\\ipt\\IPT102-asp-Cambalo\\dotnetsample.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jovan\\OneDrive\\Desktop\\ipt\\IPT102-asp-Cambalo\\dotnetsample.csproj": {
+    "c:\\Users\\jovan\\OneDrive\\Desktop\\ipt\\IPT102-asp-Cambalo\\dotnetsample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jovan\\OneDrive\\Desktop\\ipt\\IPT102-asp-Cambalo\\dotnetsample.csproj",
+        "projectUniqueName": "c:\\Users\\jovan\\OneDrive\\Desktop\\ipt\\IPT102-asp-Cambalo\\dotnetsample.csproj",
         "projectName": "dotnetsample",
-        "projectPath": "C:\\Users\\jovan\\OneDrive\\Desktop\\ipt\\IPT102-asp-Cambalo\\dotnetsample.csproj",
+        "projectPath": "c:\\Users\\jovan\\OneDrive\\Desktop\\ipt\\IPT102-asp-Cambalo\\dotnetsample.csproj",
         "packagesPath": "C:\\Users\\jovan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jovan\\OneDrive\\Desktop\\ipt\\IPT102-asp-Cambalo\\obj\\",
+        "outputPath": "c:\\Users\\jovan\\OneDrive\\Desktop\\ipt\\IPT102-asp-Cambalo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
